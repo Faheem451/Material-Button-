@@ -23,7 +23,7 @@ Here i am going to provide you the code to make a material button which makes ou
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         />
-        ```
+        
 ----------------------------------------------------------------------------------------------CODE-------------------------------------------------------------------------------
 
 
