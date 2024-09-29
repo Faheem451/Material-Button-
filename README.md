@@ -6,8 +6,9 @@ There are many options to make a button in android but material button provides 
 Here i am going to provide you the code to make a material button which makes our app very attractive whenever we perform a click on it.
 
 
-----------------------------------------------------------------------------------------------CODE-------------------------------------------------------------------------------
- ```<com.google.android.material.button.MaterialButton
+----------------------------------------------------------------------------------------------CODE------------------------------------------------------------------------------- 
+```
+ <com.google.android.material.button.MaterialButton
         android:id="@+id/mb_started"
         android:layout_width="@dimen/_250sdp"
         android:layout_height="@dimen/_37sdp"
@@ -21,7 +22,8 @@ Here i am going to provide you the code to make a material button which makes ou
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        />```
+        />
+        ```
 ----------------------------------------------------------------------------------------------CODE-------------------------------------------------------------------------------
 
 
