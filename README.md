@@ -7,7 +7,7 @@ Here i am going to provide you the code to make a material button which makes ou
 
 
 ----------------------------------------------------------------------------------------------CODE-------------------------------------------------------------------------------
- <com.google.android.material.button.MaterialButton
+ ```<com.google.android.material.button.MaterialButton
         android:id="@+id/mb_started"
         android:layout_width="@dimen/_250sdp"
         android:layout_height="@dimen/_37sdp"
@@ -21,7 +21,7 @@ Here i am going to provide you the code to make a material button which makes ou
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        />
+        />```
 ----------------------------------------------------------------------------------------------CODE-------------------------------------------------------------------------------
 
 
