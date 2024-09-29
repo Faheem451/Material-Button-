@@ -41,8 +41,7 @@ implementation 'com.google.android.material:material:1.4.0'
 
 
 **The way how it looks like**
-
-
+https://github.com/user-attachments/assets/f0961d85-adc6-4265-8b24-417b69f5b436
 
 
 
