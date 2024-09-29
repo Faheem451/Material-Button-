@@ -1,4 +1,4 @@
-# Material-Button-
+# Material Button Example for Attractive Android Apps-
 
 Many beginner Android developers want their apps to look attractive and engaging. One effective way to enhance UI is through the use of buttons. The MaterialButton provides built-in attributes for customization, including a ripple effect, which can make your app more interactive.
 
